@@ -13,12 +13,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrafatma&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=asrafatma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.shion.dev/api?username=asrafatma&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com/?user=asrafatma&theme=darcula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asrafatma/asrafatma/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asrafatma&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="top languages graph" />
 </div>
 
 <br>

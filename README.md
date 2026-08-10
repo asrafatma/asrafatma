@@ -4,7 +4,7 @@
 
 <p>Software Engineering Student passionate about building clean web applications, exploring open-source software, and solving real-world problems through code.</p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGV5ZnNnYjQyYXh0Nzd6MzB0bXdpcWZrNWl5dmNuNTNrMmdlYXM1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200w.gif" height="150"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGV5ZnNnYjQyAXh0Nzd6MzB0bXdpcWZrNWl5dmNuNTNrMmdlYXM1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200w.gif" height="150"/>
 
 </div>
 
@@ -13,12 +13,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=asrafatma&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com/?user=asrafatma&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.shion.dev/api?username=asrafatma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=asrafatma&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asrafatma&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="top languages graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asrafatma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages graph" />
 </div>
 
 <br>

@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=asrafatma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=asrafatma&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="docs/streak.svg" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
